@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the warranty on smartphones?",
+    "answer": "All smartphones come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any product within 30 days of delivery."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallets."
+  },
+  {
+    "question": "Do laptops come with a charger?",
+    "answer": "Yes, all laptops are shipped with compatible chargers included."
+  }
+]
